@@ -1,0 +1,18 @@
+# IntelliJ
+.idea/
+
+# Gradle
+build/
+out/
+
+# Compiled files
+*.class
+*.jar
+
+# Kotlin
+*.kotlin_module
+
+# User-specific files
+*.iml
+.gradle/
+build/
